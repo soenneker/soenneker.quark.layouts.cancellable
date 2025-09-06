@@ -29,7 +29,7 @@ public abstract class CancellableLayout : LayoutComponentBase, ICancellableLayou
             {
                 try
                 {
-                    await cts.CancelAsync().NoSync();
+                    await cts.CancelAsync();
                 }
                 catch
                 {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Soenneker.Extensions.Task;
 using Soenneker.Quark.Layouts.Cancellable.Abstract;
 
-namespace Soenneker.Quark.Layouts.Cancellable;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// A base layout that provides a per-component CancellationTokenSource, lazily

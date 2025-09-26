@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Components;
 using Soenneker.Utils.AtomicResources;
 using System.Threading;
 using System.Threading.Tasks;
